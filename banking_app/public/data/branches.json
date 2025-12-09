@@ -1,0 +1,222 @@
+[
+    {
+        "name": "HEAD OFFICE",
+        "lat": 24.1005,
+        "lng": 88.2560,
+        "address": "MDCCB Bank Bhavan, Khagra, Berhampore, Murshidabad",
+        "ifsc": "WBSC0MCCB01",
+        "micr": "742802001",
+        "phone": "03482-250123",
+        "email": "headoffice@mdccb.in"
+    },
+    {
+        "name": "AKHERIGANJ",
+        "lat": 24.6701,
+        "lng": 88.0473,
+        "address": "Akheriganj Branch, Murshidabad",
+        "ifsc": "WBSC0MCCB02",
+        "micr": "742802002",
+        "phone": "9000000002",
+        "email": "akheriganj@mdccb.in"
+    },
+    {
+        "name": "BELDANGA",
+        "lat": 23.9300,
+        "lng": 88.2600,
+        "address": "Beldanga Branch, Murshidabad",
+        "ifsc": "WBSC0MCCB03",
+        "micr": "742802003",
+        "phone": "9000000003",
+        "email": "beldanga@mdccb.in"
+    },
+    {
+        "name": "DOMKAL",
+        "lat": 24.1916,
+        "lng": 88.5858,
+        "address": "Domkal Branch, Murshidabad",
+        "ifsc": "WBSC0MCCB04",
+        "micr": "742802004",
+        "phone": "9000000004",
+        "email": "domkal@mdccb.in"
+    },
+    {
+        "name": "FARAKKA",
+        "lat": 24.8190,
+        "lng": 87.8874,
+        "address": "Farakka Branch, Murshidabad",
+        "ifsc": "WBSC0MCCB05",
+        "micr": "742802005",
+        "phone": "9000000005",
+        "email": "farakka@mdccb.in"
+    },
+    {
+        "name": "GRAMSALIKA",
+        "lat": 24.3200,
+        "lng": 88.1500,
+        "address": "Gramsalika Branch, Murshidabad",
+        "ifsc": "WBSC0MCCB06",
+        "micr": "742802006",
+        "phone": "9000000006",
+        "email": "gramsalika@mdccb.in"
+    },
+    {
+        "name": "ISLAMPUR",
+        "lat": 24.1700,
+        "lng": 88.2000,
+        "address": "Islampur Branch, Murshidabad",
+        "ifsc": "WBSC0MCCB07",
+        "micr": "742802007",
+        "phone": "9000000007",
+        "email": "islampur@mdccb.in"
+    },
+    {
+        "name": "JANGIPUR",
+        "lat": 24.4764,
+        "lng": 88.0630,
+        "address": "Jangipur Branch, Murshidabad",
+        "ifsc": "WBSC0MCCB08",
+        "micr": "742802008",
+        "phone": "9000000008",
+        "email": "jangipur@mdccb.in"
+    },
+    {
+        "name": "KANDI BRANCH",
+        "lat": 23.9511,
+        "lng": 88.0364,
+        "address": "Kandi Branch, Murshidabad",
+        "ifsc": "WBSC0MCCB09",
+        "micr": "742802009",
+        "phone": "9000000009",
+        "email": "kandi@mdccb.in"
+    },
+    {
+        "name": "KHAGRA",
+        "lat": 24.1050,
+        "lng": 88.2750,
+        "address": "Khagra Branch, Murshidabad",
+        "ifsc": "WBSC0MCCB10",
+        "micr": "742802010",
+        "phone": "9000000010",
+        "email": "khagra@mdccb.in"
+    },
+    {
+        "name": "KUMARSANDA",
+        "lat": 24.2900,
+        "lng": 88.3200,
+        "address": "Kumarsanda Branch, Murshidabad",
+        "ifsc": "WBSC0MCCB11",
+        "micr": "742802011",
+        "phone": "9000000011",
+        "email": "kumarsanda@mdccb.in"
+    },
+    {
+        "name": "LALBAGH",
+        "lat": 24.2500,
+        "lng": 88.2600,
+        "address": "Lalbagh Branch, Murshidabad",
+        "ifsc": "WBSC0MCCB12",
+        "micr": "742802012",
+        "phone": "9000000012",
+        "email": "lalbagh@mdccb.in"
+    },
+    {
+        "name": "LALGOLA",
+        "lat": 24.4201,
+        "lng": 88.2526,
+        "address": "Lalgola Branch, Murshidabad",
+        "ifsc": "WBSC0MCCB13",
+        "micr": "742802013",
+        "phone": "9000000013",
+        "email": "lalgola@mdccb.in"
+    },
+    {
+        "name": "MAHESAIL",
+        "lat": 24.2800,
+        "lng": 88.1300,
+        "address": "Mahesail Branch, Murshidabad",
+        "ifsc": "WBSC0MCCB14",
+        "micr": "742802014",
+        "phone": "9000000014",
+        "email": "mahesail@mdccb.in"
+    },
+    {
+        "name": "MAIN",
+        "lat": 24.1100,
+        "lng": 88.2500,
+        "address": "Main Branch, Murshidabad",
+        "ifsc": "WBSC0MCCB15",
+        "micr": "742802015",
+        "phone": "9000000015",
+        "email": "main@mdccb.in"
+    },
+    {
+        "name": "NABAGRAM",
+        "lat": 23.8500,
+        "lng": 88.1500,
+        "address": "Nabagram Branch, Murshidabad",
+        "ifsc": "WBSC0MCCB16",
+        "micr": "742802016",
+        "phone": "9000000016",
+        "email": "nabagram@mdccb.in"
+    },
+    {
+        "name": "NAGAR",
+        "lat": 24.3300,
+        "lng": 88.2200,
+        "address": "Nagar Branch, Murshidabad",
+        "ifsc": "WBSC0MCCB17",
+        "micr": "742802017",
+        "phone": "9000000017",
+        "email": "nagar@mdccb.in"
+    },
+    {
+        "name": "NOWDA",
+        "lat": 24.3300,
+        "lng": 88.0900,
+        "address": "Nowda Branch, Murshidabad",
+        "ifsc": "WBSC0MCCB18",
+        "micr": "742802018",
+        "phone": "9000000018",
+        "email": "nowda@mdccb.in"
+    },
+    {
+        "name": "RAGHUNATHGANJ",
+        "lat": 24.4600,
+        "lng": 87.7600,
+        "address": "Raghunathganj Branch, Murshidabad",
+        "ifsc": "WBSC0MCCB19",
+        "micr": "742802019",
+        "phone": "9000000019",
+        "email": "raghunathganj@mdccb.in"
+    },
+    {
+        "name": "RANIDANGA",
+        "lat": 24.0500,
+        "lng": 88.3500,
+        "address": "Ranidanga Branch, Murshidabad",
+        "ifsc": "WBSC0MCCB20",
+        "micr": "742802020",
+        "phone": "9000000020",
+        "email": "ranidanga@mdccb.in"
+    },
+    {
+        "name": "SAGARDIGHI",
+        "lat": 24.3500,
+        "lng": 88.0500,
+        "address": "Sagardighi Branch, Murshidabad",
+        "ifsc": "WBSC0MCCB21",
+        "micr": "742802021",
+        "phone": "9000000021",
+        "email": "sagardighi@mdccb.in"
+    },
+    {
+        "name": "SUTI",
+        "lat": 24.6200,
+        "lng": 88.0300,
+        "address": "Suti Branch, Murshidabad",
+        "ifsc": "WBSC0MCCB22",
+        "micr": "742802022",
+        "phone": "9000000022",
+        "email": "suti@mdccb.in"
+    }
+]
